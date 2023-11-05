@@ -1,0 +1,248 @@
+* {
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+header {
+    display: inline;
+    margin-left: 9%;
+}
+
+.name {
+    font: 2em sans-serif;
+    vertical-align: top;
+    position: absolute;
+    margin-top: 1%;
+}
+
+header nav {
+    float: right;
+    width: 20%;
+}
+
+ul span {
+    display: inline;
+    padding: 4px;
+}
+
+.container2 {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+}
+
+.Elevate {
+    margin: 24%;
+    margin-top: 40px;
+    font: 1rem sans-serif;
+}
+.Elevate h1 {
+   font: 2rem sans-serif;
+   font-weight: 900;
+}
+
+.Elevate .highlight {
+    color: #e6990a;
+    font-weight: 900;
+}
+
+.Elevate button {
+    background: rgb(230, 153, 10);
+    border-radius: 5px;
+    border-color: rgb(230, 153, 10);
+    padding: 9px 18px;
+    font-size: 65%;
+    font-weight: 700;
+}
+
+.grid {
+    display: inline-flex;
+    grid-template-columns: auto auto auto auto ;
+    width: 200%;
+    gap: 3%;
+    font-size: small;
+    margin-top: 15%;
+}
+
+.grid p {
+    width: 15%;
+    height: 3px;
+}
+
+
+.container3 {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    background-color: rgb(240, 250, 248);
+    
+}
+
+.container3 p {
+    max-width: 37%;
+}
+
+.container3 .bunk {
+    margin: -20%;
+    margin-top: 15%;
+} 
+
+.What {
+    width: 150%;
+    font-size: 120%;
+    margin: 15%;
+    line-height: 1.7;
+}
+
+.What button {
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: inset;
+    padding: 9px 13px;
+    font-size: 60%;
+    font-weight: 700;
+}
+
+.container4 {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+}
+
+.container4 .bed {
+    margin-left: 20%;
+    margin-top: 35%;
+    height: 200px;
+    position: relative;
+}
+
+
+.eye {
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 3ch;
+    width: 10%;
+    height: 18%;
+    position: absolute;
+    text-align: center;
+    margin-top: -12%;
+    margin-left: -5%;
+}
+
+.eye p{
+   text-align: center;
+    font-size: 20px;
+    line-height:20px;
+    margin-left: 25%;
+}
+
+.link {
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    margin-top: -4%; 
+   margin-left: 20%;
+   text-align: center;
+   font-weight: 900;
+}
+
+.link p {
+    text-align: center;
+    margin-left: 25%;
+    font-size: 20px;
+    line-height:20px;
+}
+
+.About button {
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: inset;
+    padding: 9px 10px;
+    font-size: 60%;
+    font-weight: 700;
+    margin-top: 5%;
+
+}
+
+
+.container4 .About {
+    max-width: 67;
+    font-size: 120%;
+    margin: 21%;
+    line-height: 1.7;
+}
+
+.faceimg {
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 20px;
+    border-top-color: black;
+    width: 67%;
+    height: 65%;
+    display: grid;
+    grid-template-columns: auto auto;
+    position: absolute;
+    margin-top: -30%;
+    margin-left: -22%;
+    line-height: 4px;
+
+}
+
+.face {
+    margin-top: 30%;
+}
+
+.love {
+    border-radius: 15px;
+    background-color: whitesmoke;
+    padding: 15px;
+    position: absolute;
+    margin-top: 20%; 
+    margin-left: 160%;
+}
+
+.About button {
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: inset;
+    padding: 9px 10px;
+    font-size: 60%;
+    font-weight: 700;
+    margin-top: 5%;
+
+}
+
+
+.footere {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: black;
+    color: white;
+    line-height: 30px;
+    border-bottom:rgb(76, 123, 212) 5px solid;
+    border-right: rgb(76, 123, 212) 5px solid;
+}
+
+.footere .logo {
+   margin-left: 13%;
+   margin-top: 10px;
+}
+
+.footere span {
+    font: 2em sans-serif;
+    vertical-align: top;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.footere .icon {
+    margin-left: 50%;
+   margin-top: 10px;
+   font-size: 24px;
+}
+
+.b-icon {
+    margin-left: 48%;
+}
