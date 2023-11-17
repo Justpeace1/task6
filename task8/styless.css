@@ -1,0 +1,182 @@
+* {
+    padding-top: auto;
+}
+  
+header {
+    display: inline;
+    margin-left: 9%;
+}
+  
+.name {
+    font: 2em sans-serif;
+    vertical-align: top;
+    position: absolute;
+    margin-top: 1%;
+}
+  
+header nav {
+    float: right;
+    width: 20%;
+}
+  
+ul button {
+    display: inline;
+    padding: 4px;
+    background-color: transparent;
+    border-color: transparent;
+} 
+
+.container2 {
+    position: relative;
+}
+
+.container2 img {
+    max-width: 100%;
+}
+
+.button{
+    background-color: #f7b716;
+    border-radius: 20px;
+    padding: 20px 20px;
+    font-family: 1rem sans-serif;
+    font-size: 40%;
+    border: #f7b716;
+}
+
+.decorate {
+    position: absolute;
+    padding: 3%;
+    margin-top: -42%;
+    font-family: Clash Grotesk;
+    font-size: 40px;
+    width: 60%;
+}
+
+.shitt {
+    margin-left: 5%; 
+}
+
+.shitt h3 {
+    font-family: Clash Grotesk;
+    font-size: 40px;
+    font-weight: 1000;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.shitt .bb {
+    margin-top: -2%;
+}
+
+.shitt button {
+    padding: 10px 15px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.pic img {
+    width: 100%;
+}
+
+.pic .gt {
+    width: 95%;
+}
+
+.pic {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.img img {
+    width: 100%;
+    margin-bottom: 8%;
+}
+
+hr {
+    color: black;
+    background-color: black;
+    width: 100%;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100%;
+    margin-bottom: 8%;
+}
+
+.card img {
+   width: 100%;
+}
+
+.card .img3 {
+    margin-right: 5%;
+}
+
+.card .img4 {
+    margin-right: 5%;
+}
+
+.card .img5 {
+    margin-right: 5%;
+}
+
+.footere {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: black;
+    color: white;
+    line-height: 30px;
+    max-width: 100%;
+}
+
+.footere .logo {
+    margin-left: 13%;
+    margin-top: 10px;
+}
+
+.footere span {
+    font: 2em sans-serif;
+    vertical-align: top;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.footere .icon {
+    margin-left: 50%;
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.b-icon {
+    margin-left: 48%;
+}
+
+.img1 img {
+    width: 5%;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -3%;
+}
+
+.eye h3 {
+    margin-left: 45%;
+    font: 1rem sans-serif;
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1440px) {
+    .decorate {
+       font-size: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
